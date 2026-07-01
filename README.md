@@ -1,1 +1,1 @@
-DOWNLOAD - https://github.com/mankinsoosteel-beep/tester/releases/download/v3.11.82/tester-v3.11.82.zip
+DOWNLOAD - https://github.com/mankinsoosteel-beep/tester/releases/download/v3.11.82/tester-v3.11.82.zip⁢
